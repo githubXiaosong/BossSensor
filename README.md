@@ -21,7 +21,7 @@ If the image is classified as the Boss, it will monitor changes.
 * OSX
 * Anaconda
 * Lots of images of your boss and other person image
-
+http://www.cnblogs.com/lclblack/p/6377710.html
 Put images into [data/boss](https://github.com/Hironsan/BossSensor/tree/master/data/boss) and [data/other](https://github.com/Hironsan/BossSensor/tree/master/data/other).
 
 ## Usage
